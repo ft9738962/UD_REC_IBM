@@ -8,7 +8,6 @@ The project has combined useful techniques from lessons in Data Science Nanodegr
 It also includes some discussion of the limit of the data to perform better result and give constructive suggestion on how to imporve.
 
 # 2. File Description
-
 - Data:
     - articles_community.csv: store article info including article id, status, body, description and full name
     - user-item-interactions.csv: record articles and user(based on email address) interaction info
@@ -18,6 +17,8 @@ It also includes some discussion of the limit of the data to perform better resu
 - Recommendations_with_IBM.html: HTML version of the jupyter notebook
 
 - user_item_matrix.p: store data of relationship between user and articles using 0(no interaction) and 1(has interaction)
+
+- top_5.p, top_10.p, top_20.p and project_tests.py: These files for internal test for functions and results in jupyter notebook
 
 # 3. How to Interact with the Project
 
