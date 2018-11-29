@@ -3,7 +3,9 @@ This project for [Udacity Data Science Nanodegree](https://www.udacity.com/cours
 
 The recommendation engine aims for make recommendation of articles from [Watson Cloud](https://dataplatform.cloud.ibm.com/) community
 
-The project has
+The project has combined useful techniques from lessons in Data Science Nanodegree to work out some solution of recommendation to different kind of users in community.
+
+It also includes some discussion of the limit of the data to perform better result and give constructive suggestion on how to imporve.
 
 # 2. File Description
 
